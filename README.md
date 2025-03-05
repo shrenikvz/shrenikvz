@@ -5,8 +5,6 @@
 - My research background lies in scientific machine learning, uncertainty quantification, causal AI, neuro-causality, digital twins, statistics, stochastic modeling, control, reinforcment learning and robotics.
 - Prior to joining Purdue university, I worked with Prof. Abhilash Somayajula at IITM on comprehensive comparative study of various control methodologies, ranging from classical based controllers to AI based controllers, with a specific application in active heave compensation.
 
-Check out my <span style="color:blue;text-decoration:underline;">[website]([https://www.example.com](https://sites.google.com/view/shrenikzinage/home?authuser=0))</span> for more information!
-
 <!--
 **shrenikvz/shrenikvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
