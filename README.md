@@ -2,7 +2,7 @@
 
 - I am currently a PhD student in the School of Mechanical Engineering at Purdue University advised by Prof. Ilias Bilionis.
 - I hold an undergraduate degree in Ocean Engineering from the Indian Institute of Technology Madras, India.
-- My research background lies in scientific machine learning, uncertainty quantification, causal AI, neuro-causality, digital twins, statistics, stochastic modeling, control, reinforcment learning and robotics.
+- My research background lies in scientific machine learning, uncertainty quantification, inverse problems, causal AI, neuro-causality, digital twins, statistics, stochastic modeling, control, reinforcment learning and robotics.
 - Prior to joining Purdue university, I worked with Prof. Abhilash Somayajula at IITM on comprehensive comparative study of various control methodologies, ranging from classical based controllers to AI based controllers, with a specific application in active heave compensation.
 
 <!--
