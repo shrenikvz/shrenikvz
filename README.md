@@ -5,17 +5,23 @@
 - My research background lies in scientific machine learning, uncertainty quantification, inverse problems, causal AI, neuro-causality, digital twins, statistics, stochastic modeling, control, reinforcement learning and robotics.
 - I am especially interested in how mathematics and machine learning can work together to solve real-world problems.
 
-<!--
-**shrenikvz/shrenikvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills:
 
-Here are some ideas to get you started:
+#### Programming Languages:
+- Python, MATLAB/SIMULINK, R, C++, Java, Julia, Fortran
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Programming Environments:
+- Git, Latex, ROS, Docker, Slurm
+
+#### Software/Libraries:
+- JAX, PyTorch, Tensorflow, Keras, GPJax/GPytorch, Flax, Equinox, Jraph, Diffrax, Optax, Pyro, Numpyro, PyMC, SaLib, CausalNex, SciML.jl, DeepXDE, Neuromancer, Langchain, Langraph 
+
+#### Computer Aided Design Software:
+- AutoCAD, Fusion 360, Ansys, OpenFOAM, InkScape
+
+
+### Connect with me:
+- 💼 [LinkedIn](https://www.linkedin.com/in/shrenik-zinage-1a727a157/)
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=CuaVvXsAAAAJ&hl=en)
+- 🌐 [Personal Portfolio](https://sites.google.com/view/shrenikzinage)
+- 🔬 [ResearchGate](https://www.researchgate.net/profile/Shrenik-Zinage?ev=hdr_xprf)
