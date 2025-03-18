@@ -8,7 +8,7 @@
 ### Skills:
 
 #### Programming Languages:
-- Python, MATLAB/SIMULINK, R, C++, Java, Julia, Fortran
+- Python, MATLAB/SIMULINK, R, C, Java, Julia, Fortran
 
 #### Programming Environments:
 - Git, Latex, ROS, Docker, Slurm
