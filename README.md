@@ -3,18 +3,18 @@
 - I am currently a PhD student in the School of Mechanical Engineering at Purdue University advised by Prof. Ilias Bilionis.
 - I hold an undergraduate degree in Ocean Engineering from the Indian Institute of Technology Madras, India.
 - My research background lies in scientific machine learning, uncertainty quantification, inverse problems, causal AI, neuro-causality, digital twins, statistics, stochastic modeling, control, reinforcement learning and robotics.
-- I am especially interested in how mathematics and machine learning can work together to solve real-world problems.
+- I am especially interested in how mathematics and machine learning can work together to solve real-world engineering problems.
 
 ### Skills:
 
 #### Programming Languages:
-- Python, MATLAB/SIMULINK, R, C, Julia
+- Python, MATLAB/SIMULINK, Julia, R, C
 
 #### Programming Environments:
 - Git, Latex, ROS, Docker, Slurm
 
 #### Software/Libraries:
-- JAX, PyTorch, Tensorflow, Keras, GPJax/GPytorch, Flax, Equinox, Jraph, Diffrax, Optax, Pyro, Numpyro, PyMC, SaLib, CausalNex, SciML.jl, DeepXDE, Neuromancer, Langchain, Langraph 
+- JAX, PyTorch, Tensorflow, Keras, GPJax/GPytorch, Flax, Equinox, Jraph, Diffrax, Optax, Pyro, Numpyro, PyMC, SaLib, CausalNex, SciML.jl, DeepXDE, Neuromancer, Langchain, Langraph, ModelingToolkit.jl, Modelica 
 
 #### Computer Aided Design Software:
 - AutoCAD, Fusion 360, Ansys, OpenFOAM, InkScape
@@ -25,3 +25,4 @@
 - 📚 [Google Scholar](https://scholar.google.com/citations?user=CuaVvXsAAAAJ&hl=en)
 - 🌐 [Personal Portfolio](https://sites.google.com/view/shrenikzinage)
 - 🔬 [ResearchGate](https://www.researchgate.net/profile/Shrenik-Zinage?ev=hdr_xprf)
+
