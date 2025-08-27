@@ -23,6 +23,6 @@
 ### Connect with me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/shrenik-zinage-1a727a157/)
 - 📚 [Google Scholar](https://scholar.google.com/citations?user=CuaVvXsAAAAJ&hl=en)
-- 🌐 [Personal Portfolio]([https://sites.google.com/view/shrenikzinage](https://shrenikvz.github.io/))
+- 🌐 [Personal Portfolio](https://shrenikvz.github.io/)
 - 🔬 [ResearchGate](https://www.researchgate.net/profile/Shrenik-Zinage?ev=hdr_xprf)
 
