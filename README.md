@@ -1,6 +1,6 @@
 ### Hi 👋, I am Shrenik!
 
-- I am currently a PhD student in the School of Mechanical Engineering at Purdue University advised by Prof. Ilias Bilionis.
+- I am a PhD student in the School of Mechanical Engineering at Purdue University advised by Prof. Ilias Bilionis.
 - I hold an undergraduate degree from the Indian Institute of Technology Madras, India.
 - My research background lies in scientific machine learning, uncertainty quantification, digital twins, causal AI, inverse problems, Bayesian statistics, stochastic modeling, control, information field theory, Gaussian processes, recurrent neural networks, graph neural networks and reinforcement learning. 
 - I am especially interested in how mathematics and machine learning can work together to solve real-world engineering problems.
