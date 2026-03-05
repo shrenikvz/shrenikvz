@@ -2,7 +2,7 @@
 
 - I am a final-year PhD student in the School of Mechanical Engineering at Purdue University advised by Prof. Ilias Bilionis.
 - I hold an undergraduate degree from the Indian Institute of Technology Madras, India.
-- My research background lies in Physics Informed Machine Learning/Scientific Machine Learning, Uncertainty Quantification, Causality, Inverse Problems, Bayesian Statistics, Graph Neural Networks, Koopman Operators, Control, Digital Twins, Recurrent Neural Networks
+- My primary research background lies in Physics Informed Machine Learning/Scientific Machine Learning, Uncertainty Quantification and Causality.
 - I am particularly interested in how mathematics and machine learning can work together to solve real-world engineering problems.
 
 ### Skills:
