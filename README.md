@@ -2,7 +2,7 @@
 
 - I am Dr. Shrenik Zinage currently a Postdoc at MIT, a PhD graduate (2026) from Purdue University and undergraduate degree graduate from IIT Madras (2021).
 - When pursing PhD, I did joyful internships at Mitsubishi Electric Research Labs (Summer 2025) and RTX Technology Research Center (Summer 2024).
-- My research lies at the intersection of machine learning and engineering with hands on experience applying a variety of techniques from my research to real world systems such as internal combustion engines, hypersonic vehicles, refrigeration systems, geodetic satellite missions and heave compensation. I am particularly interested in how math and machine learning can work together to solve real world engineering problems.
+- My research lies at the intersection of machine learning and engineering with experience applying a variety of techniques from my research to real world systems such as internal combustion engines, hypersonic vehicles, refrigeration systems, geodetic satellite missions and heave compensation. I am particularly interested in how math and machine learning can work together to solve real world engineering problems.
 
 ### Skills:
 
